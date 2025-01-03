@@ -1,4 +1,4 @@
-# My Discord Bot
+# My Discord Bot Lofi Hub, base principal
 
 This is a simple Discord bot built using Node.js and the discord.js library. It includes a basic command structure and demonstrates how to set up a bot that responds to commands.
 
